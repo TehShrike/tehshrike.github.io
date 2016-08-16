@@ -1,6 +1,6 @@
 # TehShrike's open source code
 
-Browsing through my [public repositories on Github](https://github.com/TehShrike/) is painful to impossible.
+Browsing through my [public repositories on Github](https://github.com/TehShrike?tab=repositories) is painful to impossible.
 
 This curated list should be easier to read for people who are interested in the JavaScript code I've written or the framework of tools I've built for myself.
 
