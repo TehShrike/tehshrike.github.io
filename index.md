@@ -1,12 +1,14 @@
-# TehShrike's open source code
+# TehShrike
 
 Browsing through my [public repositories on Github](https://github.com/TehShrike?tab=repositories) is painful to impossible.
 
-This curated list should be easier to read for people who are interested in the JavaScript code I've written or the framework of tools I've built for myself.
-
-If one of my repos isn't on this list it's because I don't think it's worth knowing about, or because I wrote it after making this list and haven't gotten around to adding it ^_^
+This curated list is for people who are interested in the JavaScript code I've written or the framework of tools I've built for myself.
 
 If you want my home page/blog, go to [joshduff.com](http://joshduff.com/)
+
+# Open source code
+
+If one of my repos isn't on this list it's because I don't think it's worth knowing about, or because I wrote it after making this list and haven't gotten around to adding it ^_^
 
 ## Apps
 
