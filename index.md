@@ -1,6 +1,4 @@
----
-title: TehShrike on Github
----
+# TehShrike's open source code
 
 Browsing through my [public repositories on Github](https://github.com/TehShrike/) is painful to impossible.
 
@@ -8,7 +6,9 @@ This curated list should be easier to read for people who are interested in the 
 
 If one of my repos isn't on this list it's because I don't think it's worth knowing about, or because I wrote it after making this list and haven't gotten around to adding it ^_^
 
-# General interest
+If you want my home page/blog, go to [joshduff.com](http://joshduff.com/)
+
+## General interest
 
 - [shell-tag](https://github.com/TehShrike/shell-tag) a string template tag so you can write shell scripts with JS instead of bash
 - [lieutenant](https://github.com/TehShrike/lieutenant) command-line argument parser.  For apps with git-like commands like "git stash pop" instead of traditional args you'd just use [minimist](https://github.com/substack/minimist) for
@@ -26,15 +26,15 @@ If one of my repos isn't on this list it's because I don't think it's worth know
 - [private-static-website](https://github.com/TehShrike/private-static-website) a static content server that protects content behind email validation
 - [private-github-website](https://github.com/TehShrike/private-github-website) hosts content from Github as a private site
 
-# For use with another library/service
+## For use with another library/service
 
-## Joi
+#### Joi
 
 [Joi](https://github.com/hapijs/joi) is a duck-type checker.
 
 - [joi-sql](https://github.com/TehShrike/joi-sql) generates type-checking functions based on your MySQL schema
 
-## Ractive
+#### Ractive
 
 [Ractive](http://www.ractivejs.org/) is an excellent templating/DOM manipulation library.
 
@@ -42,19 +42,19 @@ If one of my repos isn't on this list it's because I don't think it's worth know
 - [ractive-select-on-focus](https://github.com/TehShrike/ractive-select-on-focus) a decorator that selects the contents of the input when it gains focus
 - [ractive-diff-generator](https://github.com/TehShrike/ractive-diff-generator) if you're using state management like Redux instead of interacting with the Ractive object directly, this tool tries to reclaim some of the performance downsides you would eventually incur
 
-## Tape
+#### Tape
 
 [tape](https://github.com/substack/tape) is a simple test harness meant to run in browsers
 
 - [browserstack-tape-reporter](https://github.com/TehShrike/browserstack-tape-reporter) launches your tests in any browsers you like using Browserstack's automated service
 
-## Redux
+#### Redux
 
 [Redux](http://redux.js.org/) is everyone's favorite state library
 
 - [create-redux-reducer-from-map](https://github.com/TehShrike/create-redux-reducer-from-map) turns a map of functions into a Redux-ready reducer function
 
-## LevelUP
+#### LevelUP
 
 [LevelUP](https://github.com/Level/levelup) is an interface to key-value stores with a ton of storage backends
 
@@ -62,7 +62,7 @@ If one of my repos isn't on this list it's because I don't think it's worth know
 - [expire-unused-keys](https://github.com/TehShrike/expire-unused-keys) a persistent "hey, you should probably refresh/expire this resource" library you can use to build higher-level caching libraries
 
 
-# Niche
+## Niche
 
 Like the general interest libraries above, except I don't expect many people to care!
 
@@ -73,13 +73,13 @@ Like the general interest libraries above, except I don't expect many people to 
 - [tak-game](https://github.com/TehShrike/tak-game) Functions for managing the boardstate of a Tak game by feeding in a series of moves
 - [tak-move-helper](https://github.com/TehShrike/tak-move-helper) answers questions like "if you pick up a piece on this square, what other squares are valid to move to?"
 
-# Apps
+## Apps
 
 - [communal-checklist](https://github.com/TehShrike/communal-checklist) a gift registry site with as little friction as possible.  Available at [communalchecklist.com](http://communalchecklist.com/)
 - [c25k](https://github.com/TehShrike/c25k) visual direction and record keeping for my couch-to-5k attempt
 - [k](https://github.com/TehShrike/k) command-line-interface for [Kanbanize](https://kanbanize.com/)
 
-# Routing
+## Routing
 
 - [hash-brown-router](https://github.com/TehShrike/hash-brown-router) client-side routing for apps that need to be able to programmatically build urls to link to
 - [sausage-router](https://github.com/TehShrike/sausage-router) lets you use the hash-brown-router with pushState/replaceState instead of manipulating the fragment identifier (hash url)
@@ -94,7 +94,7 @@ Like the general interest libraries above, except I don't expect many people to 
 	- [state-router-example](https://github.com/TehShrike/state-router-example) is a more realistic (browserify-using, multi-directory) example of abstract-state-router usage for each of the current template rendering options
 	- [cross-state-document-builder](https://github.com/TehShrike/cross-state-document-builder) manages Redux stores, changing them based on abstract-state-router state events, but keeping them active across the lifecycle of any number of states
 
-# [Noddity](http://noddity.com/)
+## [Noddity](http://noddity.com/)
 
 - [noddity](https://github.com/TehShrike/noddity) is the webapp
 - [noddity-butler](https://github.com/TehShrike/noddity-butler) is the high-level cache manager

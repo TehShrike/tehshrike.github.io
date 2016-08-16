@@ -1,0 +1,21 @@
+{
+  "name": "tehshrike.github.io",
+  "version": "1.0.0",
+  "description": "Because my list of Github repos is impossible to browse down.",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/tehshrike.github.io.git"
+  },
+  "author": "TehShrike",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TehShrike/tehshrike.github.io/issues"
+  },
+  "homepage": "https://github.com/TehShrike/tehshrike.github.io#readme",
+  "devDependencies": {
+    "remarkable": "1.6.2"
+  }
+}
