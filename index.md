@@ -8,6 +8,12 @@ If one of my repos isn't on this list it's because I don't think it's worth know
 
 If you want my home page/blog, go to [joshduff.com](http://joshduff.com/)
 
+## Apps
+
+- [communal-checklist](https://github.com/TehShrike/communal-checklist) a gift registry site with as little friction as possible.  Available at [communalchecklist.com](http://communalchecklist.com/)
+- [c25k](https://github.com/TehShrike/c25k) visual direction and record keeping for my couch-to-5k attempt
+- [k](https://github.com/TehShrike/k) command-line-interface for [Kanbanize](https://kanbanize.com/)
+
 ## General interest
 
 - [shell-tag](https://github.com/TehShrike/shell-tag) a string template tag so you can write shell scripts with JS instead of bash
@@ -72,12 +78,6 @@ Like the general interest libraries above, except I don't expect many people to 
 - [tak-board](https://github.com/TehShrike/tak-board) a visual representation of a [Tak](http://cheapass.com/tak/) board, for the browser
 - [tak-game](https://github.com/TehShrike/tak-game) Functions for managing the boardstate of a Tak game by feeding in a series of moves
 - [tak-move-helper](https://github.com/TehShrike/tak-move-helper) answers questions like "if you pick up a piece on this square, what other squares are valid to move to?"
-
-## Apps
-
-- [communal-checklist](https://github.com/TehShrike/communal-checklist) a gift registry site with as little friction as possible.  Available at [communalchecklist.com](http://communalchecklist.com/)
-- [c25k](https://github.com/TehShrike/c25k) visual direction and record keeping for my couch-to-5k attempt
-- [k](https://github.com/TehShrike/k) command-line-interface for [Kanbanize](https://kanbanize.com/)
 
 ## Routing
 
