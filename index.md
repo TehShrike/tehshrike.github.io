@@ -10,6 +10,8 @@ If you want my home page/blog, go to [joshduff.com](http://joshduff.com/)
 
 If one of my repos isn't on this list it's because I don't think it's worth knowing about, or because I wrote it after making this list and haven't gotten around to adding it ^_^
 
+To suggest changes, open pull requests against [this file](https://github.com/TehShrike/tehshrike.github.io/blob/master/index.md).
+
 ## Apps
 
 - [communal-checklist](https://github.com/TehShrike/communal-checklist) a gift registry site with as little friction as possible.  Available at [communalchecklist.com](http://communalchecklist.com/)
