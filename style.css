@@ -45,6 +45,8 @@ body { font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", seri
 
 h1, h2, h3, h4, h5, h6 { font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif; font-weight: 900; line-height: 1.25; margin-top: 1em; margin-bottom: .5em; }
 
+strong a { font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif; }
+
 p, dl, ol, ul { font-size: 1rem; margin-top: 0; margin-bottom: 1rem; }
 
 ol, ul { padding-left: 2rem; }
