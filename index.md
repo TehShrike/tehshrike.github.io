@@ -28,6 +28,7 @@ To suggest changes, open pull requests against [this file](https://github.com/Te
 - **[weak-type-wizard](https://github.com/TehShrike/weak-type-wizard)**: - enforce a schema for your objects, using casting functions you can define
 - **[financial-arithmetic-functions](https://github.com/TehShrike/financial-arithmetic-functions)**: add/subtract/multiply functions for arbitrarily large numbers
 - **[financial-arithmeticator](https://github.com/TehShrike/financial-arithmeticator)**: higher-level library for manipulating financial numbers without floating point math
+- **[gate-keeper](https://github.com/TehShrike/gate-keeper)**: lets you call a bunch of async getter functions from different places without ever having more than one getter function running at a time
 - **[sql-concat](https://github.com/TehShrike/sql-concat)**: dynamically build SQL queries with minimal fuss and zero magic
 - **[add-affiliate-querystring](https://github.com/TehShrike/add-affiliate-querystring)**: add Amazon affiliate querystrings to any url
 - **[read-write-lock](https://github.com/TehShrike/read-write-lock)**: allow either a single writer or multiple readers to access a resource in a single process
