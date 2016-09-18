@@ -4,7 +4,9 @@ Browsing through my [public repositories on Github](https://github.com/TehShrike
 
 This curated list is for people who are interested in the JavaScript code I've written or the framework of tools I've built for myself.
 
-If you want my home page/blog, go to [joshduff.com](http://joshduff.com/)
+- If you want my home page/blog, go to [joshduff.com](http://joshduff.com/)
+- If you want the repos I've published to npm, go to [www.npmjs.com/~tehshrike](https://www.npmjs.com/~tehshrike)
+- If you want to follow me on Twitter, go to [twitter.com/tehshrike](https://twitter.com/tehshrike)
 
 # Open source code
 
