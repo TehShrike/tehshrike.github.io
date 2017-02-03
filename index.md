@@ -1,18 +1,18 @@
 # TehShrike
 
-Browsing through my [public repositories on Github](https://github.com/TehShrike?tab=repositories) is painful to impossible.
+Browsing through my [public code on Github](https://github.com/TehShrike?tab=repositories) is painful with all the forks and irrelevant repos.
 
-This curated list is for people who are interested in the JavaScript code I've written or the framework of tools I've built for myself.
+This curated list of my open source projects is for people interested in the JavaScript code I've written or the framework of tools I'm building for myself.
 
-- If you want my home page/blog, go to [joshduff.com](http://joshduff.com/)
-- If you want the repos I've published to npm, go to [www.npmjs.com/~tehshrike](https://www.npmjs.com/~tehshrike)
-- If you want to follow me on Twitter, go to [twitter.com/tehshrike](https://twitter.com/tehshrike)
+- For my home page/blog, go to [joshduff.com](http://joshduff.com/)
+- For the repos I've published to npm, go to [www.npmjs.com/~tehshrike](https://www.npmjs.com/~tehshrike)
+- To follow me on Twitter, go to [twitter.com/tehshrike](https://twitter.com/tehshrike)
 
 # Open source code
 
-If one of my repos isn't on this list it's because I don't think it's worth knowing about, or because I wrote it after making this list and haven't gotten around to adding it ^_^
+If one of my repos isn't on this list it's because I don't think it's worth caring about, or because I wrote it since the last time I updated this list ^_^
 
-To suggest changes, open pull requests against [this file](https://github.com/TehShrike/tehshrike.github.io/blob/master/index.md).
+To suggest changes, open pull requests [here](https://github.com/TehShrike/tehshrike.github.io/blob/master/index.md).
 
 ## Apps
 
