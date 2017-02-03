@@ -50,6 +50,8 @@ p, dl, ol, ul { font-size: 1rem; margin-top: 0; margin-bottom: 1rem; }
 
 ol, ul { padding-left: 2rem; }
 
+li { padding-top: .3em; padding-bottom: .3em; }
+
 pre, code, samp { font-family: "Source Code Pro", Consolas, monospace; font-size: inherit; }
 
 pre { margin-top: 0; margin-bottom: 1rem; overflow-x: scroll; }
