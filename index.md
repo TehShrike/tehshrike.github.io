@@ -19,6 +19,7 @@ To suggest changes, open pull requests [here](https://github.com/TehShrike/tehsh
 - **[communal-checklist](https://github.com/TehShrike/communal-checklist)**: a gift registry site with as little friction as possible.  Available at [communalchecklist.com](http://communalchecklist.com/)
 - **[c25k](https://github.com/TehShrike/c25k)**: visual direction and record keeping for my couch-to-5k attempt
 - **[k](https://github.com/TehShrike/k)**: command-line-interface for [Kanbanize](https://kanbanize.com/)
+- **[susd-search-site](https://github.com/TehShrike/susd-search-site)**: an improved index of videos from my favorite table top game reviewers.  Available at [susdsearch.com](https://susdsearch.com)
 
 ## General interest
 
@@ -30,14 +31,17 @@ To suggest changes, open pull requests [here](https://github.com/TehShrike/tehsh
 - **[weak-type-wizard](https://github.com/TehShrike/weak-type-wizard)**: - enforce a schema for your objects, using casting functions you can define
 - **[financial-arithmetic-functions](https://github.com/TehShrike/financial-arithmetic-functions)**: add/subtract/multiply functions for arbitrarily large numbers
 - **[financial-arithmeticator](https://github.com/TehShrike/financial-arithmeticator)**: higher-level library for manipulating financial numbers without floating point math
-- **[gate-keeper](https://github.com/TehShrike/gate-keeper)**: lets you call a bunch of async getter functions from different places without ever having more than one getter function running at a time
+- **[gate-keeper](https://github.com/TehShrike/gate-keeper)**: guarantee that only one async job will run at a time
 - **[sql-concat](https://github.com/TehShrike/sql-concat)**: dynamically build SQL queries with minimal fuss and zero magic
+- **[sql-tagged-template-literal](https://github.com/TehShrike/sql-tagged-template-literal)**: use template strings to create SQL queries
 - **[add-affiliate-querystring](https://github.com/TehShrike/add-affiliate-querystring)**: add Amazon affiliate querystrings to any url
 - **[read-write-lock](https://github.com/TehShrike/read-write-lock)**: allow either a single writer or multiple readers to access a resource in a single process
 - **[key-master](https://github.com/TehShrike/key-master)**: eliminate "add a default value to a map if it doesn't exist yet" boilerplate
 - **[combine-arrays](https://github.com/TehShrike/combine-arrays)**: so you can iterate over multiple arrays at once
 - **[private-static-website](https://github.com/TehShrike/private-static-website)**: a static content server that protects content behind email validation
 - **[private-github-website](https://github.com/TehShrike/private-github-website)**: hosts content from Github as a private site
+- **[gzip-all](https://github.com/TehShrike/gzip-all)**: create `.gz` files for all files matching a glob path
+- **[generate-gedcom](https://github.com/TehShrike/generate-gedcom)**: serialize a geneology data structure into GEDCOM
 
 ## For use with another library/service
 
@@ -54,6 +58,16 @@ To suggest changes, open pull requests [here](https://github.com/TehShrike/tehsh
 - **[ractive-drag-and-drop-files](https://github.com/TehShrike/ractive-drag-and-drop-files)**: an event directive that fires an event when a file is dragged onto the element
 - **[ractive-select-on-focus](https://github.com/TehShrike/ractive-select-on-focus)**: a decorator that selects the contents of the input when it gains focus
 - **[ractive-diff-generator](https://github.com/TehShrike/ractive-diff-generator)**: if you're using state management like Redux instead of interacting with the Ractive object directly, this tool tries to reclaim some of the performance downsides you would eventually incur
+- **[ractive-lazyload-img](https://github.com/TehShrike/ractive-lazyload-img)**: a decorator that loads images when they get near the viewport
+
+#### Browserify
+
+If you value simplicity, [Browserify](https://github.com/substack/node-browserify/) is still an awesome module bundler.
+
+- **[sveltify](https://github.com/TehShrike/sveltify)**: require [Svelte](http://svelte.technology/) components
+- **[lispyscriptify](https://github.com/TehShrike/lispyscriptify)**: require [Lispyscript](http://lispyscript.com/) files
+
+
 
 #### Tape
 
@@ -81,7 +95,6 @@ Like the general interest libraries above, except I don't expect many people to 
 
 - **[pickering-majority-text-revelation](https://github.com/TehShrike/pickering-majority-text-revelation)**: Wilbur Pickering's translation of Revelation, with notes, in a couple arrays
 - **[sync-github-to-fs](https://github.com/TehShrike/sync-github-to-fs)**: `git clone --depth 1`/`git pull` without storing any git metadata locally
-- **[lispyscriptify](https://github.com/TehShrike/lispyscriptify)**: require [Lispyscript](http://lispyscript.com/) files in your browserify-built code
 - **[tak-board](https://github.com/TehShrike/tak-board)**: a visual representation of a [Tak](http://cheapass.com/tak/) board, for the browser
 - **[tak-game](https://github.com/TehShrike/tak-game)**: Functions for managing the boardstate of a Tak game by feeding in a series of moves
 - **[tak-move-helper](https://github.com/TehShrike/tak-move-helper)**: answers questions like "if you pick up a piece on this square, what other squares are valid to move to?"
@@ -94,6 +107,7 @@ Like the general interest libraries above, except I don't expect many people to 
 - **[abstract-state-router](https://github.com/TehShrike/abstract-state-router)**: routing for applications with [multiple nested states](http://joshduff.com/#!/post/2015-06-why-you-need-a-state-router.md).  Inspired by ui-router
   - **[ractive-state-router](https://github.com/TehShrike/ractive-state-router)**: renders states with Ractive
   - **[riot-state-renderer](https://github.com/TehShrike/riot-state-renderer)**: renders states with [Riot](http://riotjs.com/)
+  - **[svelte-state-renderer](https://github.com/TehShrike/svelte-state-renderer)**: renders states with [Svelte](https://svelte.technology/)
   - **[asr-active-state-watcher](https://github.com/TehShrike/asr-active-state-watcher)**: lets you write abstract-state-router plugins by attaching to newly-rendered states
   - **[state-router-redux-ractive](https://github.com/TehShrike/state-router-redux-ractive)**: lets you use Redux stores to drive your Ractive states
     - **[asr-fsm-navigation](https://github.com/TehShrike/asr-fsm-navigation)**: given a [finite-state-machine](https://github.com/dominictarr/fsm) definition, watches for Redux actions and redirects you to a different screen
@@ -109,6 +123,7 @@ Like the general interest libraries above, except I don't expect many people to 
 - **[noddity-linkifier](https://github.com/TehShrike/noddity-linkifier)**: parses the internal link syntax
 - **[text-metadata-parser](https://github.com/TehShrike/text-metadata-parser)**: implements the [Front-Matter](http://jekyllrb.com/docs/frontmatter/)-like parsing
 - **[noddity-render-static](https://github.com/TehShrike/noddity-render-static)**: generates static HTML
+- **[noddity-lazy-static-render](https://github.com/TehShrike/noddity-lazy-static-render)**: calls noddity-render-static on demand and caches results to reduce server workload
 - **[noddity-render-dom](https://github.com/ArtskydJ/noddity-render-dom)**: renders a post in the browser
 - **[noddity-service-server](https://github.com/TehShrike/noddity-service-server)**: handles boilerplate for servers serving content from remote Noddity installations
   - **[rssaas](https://github.com/TehShrike/rssaas)**: serves RSS feeds
@@ -116,3 +131,5 @@ Like the general interest libraries above, except I don't expect many people to 
 - **[noddity-installer](https://github.com/TehShrike/noddity-installer)**: is a command-line app that installs Noddity in the current working directory
 - **[noddity-search](https://github.com/TehShrike/noddity-search)**: lets you do basic fulltext index searching of a Noddity host
 - **[noddity-retrieval](https://github.com/TehShrike/noddity-retrieval)**: fetches posts and parses metadata
+- **[validate-noddity-post](https://github.com/TehShrike/validate-noddity-post)**: asserts whether or not a post can be successfully rendered
+- **[noddity-linter](https://github.com/TehShrike/noddity-linter)**: guarantees that all the posts in a directory are able to render without errors
