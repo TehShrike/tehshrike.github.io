@@ -4,10 +4,11 @@ Browsing through my [public code on Github](https://github.com/TehShrike?tab=rep
 
 This curated list of my open source projects is for people interested in the JavaScript code I've written or the framework of tools I'm building for myself.
 
-- For my resume, go to [tehshrike.github.io/resume](https://tehshrike.github.io/resume)
-- For my home page/blog, go to [joshduff.com](http://joshduff.com/)
-- For the repos I've published to npm, go to [www.npmjs.com/~tehshrike](https://www.npmjs.com/~tehshrike)
-- To follow me on Twitter, go to [twitter.com/tehshrike](https://twitter.com/tehshrike)
+## Elsewhere on the internet
+
+- Twitter: [twitter.com/tehshrike](https://twitter.com/tehshrike)
+- Home page/blog: [joshduff.com](http://joshduff.com/)
+- npm: [www.npmjs.com/~tehshrike](https://www.npmjs.com/~tehshrike)
 
 # Open source code
 
