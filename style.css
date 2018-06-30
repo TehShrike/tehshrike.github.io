@@ -1,9 +1,5 @@
 /* Heavily stolen from http://pixyll.com/ */
 
-body {
-	width: 100%;
-}
-
 .measure { margin: 0 auto; max-width: 42rem; }
 
 body { color: #333; background-color: white; }
